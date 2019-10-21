@@ -4,6 +4,6 @@ spring:
     encoding: UTF-8
 
 line.bot:
-  channel-token: 'Put Your Channel Token Here.'
-  channel-secret: 'Put Your Channel Secret Here.'
+  channel-token: 'X18NG51BI5J6ANMAZgzg2hfwWf4kL6PqPweTgG3EZkw'
+  channel-secret: '474883d581f091e64c9503ca415d9853'
   handler.path: /callback
