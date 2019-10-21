@@ -1,0 +1,9 @@
+spring:
+  messages:
+    basename: i18n/messages
+    encoding: UTF-8
+
+line.bot:
+  channel-token: 'Put Your Channel Token Here.'
+  channel-secret: 'Put Your Channel Secret Here.'
+  handler.path: /callback
